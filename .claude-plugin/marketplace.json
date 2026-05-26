@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cc-solarized",
+  "description": "Solarized Themes for Claude Code",
+  "owner": {
+    "name": "Josh Priddle"
+  },
+  "plugins": [
+    {
+      "name": "solarized",
+      "description": "Solarized themes for Claude Code",
+      "source": "./",
+      "category": "theme",
+      "homepage": "https://github.com/itspriddle/cc-solarized"
+    }
+  ]
+}
