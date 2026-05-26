@@ -1,0 +1,7 @@
+{
+  "name": "Solarized Dark",
+  "base": "dark-daltonized",
+  "overrides": {
+    "userMessageBackground": "ansi:blackBright"
+  }
+}

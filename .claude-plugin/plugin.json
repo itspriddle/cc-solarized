@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "cc-solarized",
+  "displayName": "Solarized",
+  "version": "0.1.0",
+  "description": "Solarized color themes (Ethan Schoonover palette) for Claude Code.",
+  "author": {
+    "name": "Josh Priddle",
+    "email": "josh@builtfast.com"
+  },
+  "license": "MIT",
+  "keywords": ["theme", "solarized", "dark"]
+}
